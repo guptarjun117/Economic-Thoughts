@@ -1,7 +1,9 @@
 # Economic Thoughts
 _Composed economic questions and answers, based on real-life scenarios for potential article release._
 
-**Economics of the $2 bill during CNY ~ Feb 2022**
+-----
+
+**1 - Economics of the $2 bill during CNY ~ Feb 2022**
 
 **Question:**
 According to Chinese tradition, the red packet stands for the blessings that elders wish for their younger family members. Blessings and new things are associated with Chinese culture, indicating that new and crisp bills should be used when giving red packets. This leads to banks printing large amounts of new $2 notes each year during the festive season. However, despite this, I often hear adult family members complaining about the long queues at banks to collect the new notes and the inability to obtain the total amount of notes they might require. Discuss the economic reasons for this annual phenomenon. 
